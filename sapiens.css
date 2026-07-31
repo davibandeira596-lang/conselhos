@@ -1,0 +1,44 @@
+h3 {
+    font-weight: bold;
+    font-family: 'cambria', serif;
+}
+.iroh {
+    font-size: 1.2em;
+    background-color: #fd3333;
+    padding: 10px;
+}
+.oogway {
+    font-size: 1.2em;
+    background-color: hsl(128, 100%, 69%);
+    padding: 10px;
+}
+.jake {
+    font-size: 1.2em;
+    background-color: hsl(49, 100%, 61%);
+    padding: 10px;
+}
+.bmo {
+    font-size: 1.2em;
+    background-color: hsl(180, 100%, 67%);
+    padding: 10px;
+}
+.yoda {
+    font-size: 1.2em;
+    background-color: hsl(133, 100%, 52%);
+    padding: 10px;
+}
+.MTRC {
+    font-size: 1.2em;
+    background-color: hsl(187, 100%, 86%);
+    padding: 10px;
+}
+.rafiki {
+    font-size: 1.2em;
+    background-color: hsl(0, 71%, 67%);
+    padding: 10px;
+}
+h1, h2 {
+    font-weight: bold;
+    text-align: center;
+    font-family: 'garamond', serif;
+}
